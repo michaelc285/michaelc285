@@ -1,6 +1,14 @@
-### Hi there 👋
+```Javascript
+let me = {
+  name: "Michael",
+  occupation: "Web Developer",
+  email: "michaelcth410@gmail.com"
+}
+```
+I'm currently learning Web3.0 and Blockchain stuff. I'm willing to contribute to the decentralized web.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelc285&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **michaelc285/michaelc285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
