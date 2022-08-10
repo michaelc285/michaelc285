@@ -1,7 +1,7 @@
 ```Javascript
 let me = {
   name: "Michael",
-  occupation: "Web Developer",
+  role: "Web Developer",
   email: "michaelcth410@gmail.com"
 }
 ```
