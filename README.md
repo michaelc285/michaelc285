@@ -1,9 +1,5 @@
 ```Javascript
-let me = {
-  name: "Michael",
-  role: "Web Developer",
-  email: "michaelcth410@gmail.com"
-}
+console.log(Hello World!)
 ```
 
 
